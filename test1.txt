@@ -1,10 +1,1 @@
- Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 08BF-7DF9
-
- R‚pertoire de C:\Users\Lenovo\Desktop\Test(Git)
-
-26/12/2020  13:31    <REP>          .
-26/12/2020  13:31    <REP>          ..
-26/12/2020  13:31                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  187ÿ237ÿ068ÿ800 octets libres
+titre : Test1
